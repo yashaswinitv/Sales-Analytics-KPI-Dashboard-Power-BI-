@@ -11,7 +11,7 @@ The goal is to enable **data-driven decision-making** by tracking key business K
 
 ## 📸 Dashboard Preview
 
-(images/dashboard-overview.png)
+![Dashboard Overview](images/dashboard-overview.png)
 
 ---
 
@@ -62,6 +62,17 @@ The goal is to enable **data-driven decision-making** by tracking key business K
 5. DAX Calculations – Created KPIs and measures  
 6. Visualization – Designed interactive dashboard  
 7. Insights Generation – Extracted business insights  
+
+---
+
+## 📐 Data Model (Conceptual)
+
+- Fact Table: Sales Data  
+- Dimension Tables:
+  - Products  
+  - Customers  
+  - Regions  
+  - Date Table  
 
 ---
 
