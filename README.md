@@ -11,7 +11,7 @@ The goal is to enable **data-driven decision-making** by tracking key business K
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](images/dashboard-overview.png)
+(images/dashboard-overview.png)
 
 ---
 
