@@ -11,7 +11,7 @@ The goal is to enable **data-driven decision-making** by tracking key business K
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](./dashboard-overview.png)
+![Dashboard Overview](./dashboard-overview.webp)
 
 ---
 
@@ -80,7 +80,7 @@ The goal is to enable **data-driven decision-making** by tracking key business K
 ## 📷 Dashboard Sections
 
 ### 📌 Sales Overview
-![Sales Overview](./sales-overview.png)
+![Sales Overview](./sales-overview.jpg)
 
 ### 🌍 Regional Analysis
 ![Region Analysis](./region-analysis.png)
